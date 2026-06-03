@@ -1,6 +1,6 @@
 # Global Solution 1 - Computer Organization and Architecture
 
-## 🚀 Mission Control AI
+## 🚀 Sistema IoT para Monitoramento de Cápsula Espacial
 
 ## 👨‍💻 Integrantes - 1CCPZ 
 
