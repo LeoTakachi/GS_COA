@@ -109,5 +109,5 @@ Exemplo de dados enviados pela porta serial:
 
 ## 🎬 Demonstração
 
-Vídeo de demonstração: 
-Tinkercad: 
+* Vídeo de demonstração: 
+* Tinkercad: https://www.tinkercad.com/things/7ZFRy8DdL9W-gs1-coa?sharecode=y7Vmh79_HbAH4lQos4IX05UtdaOs5A_WoOCo5vi4a3E 
